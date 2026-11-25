@@ -1,0 +1,6 @@
+.stock-helpers/
+__pycache__/
+.env
+.env.*
+/gemini-idea.md
+/idea-gpt.md
